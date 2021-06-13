@@ -1,3 +1,7 @@
+mkdir "newFolder" -> create new folder
+
+touch "file.exe"  -> create new file
+
 pwd  				-> info currdir, result address directory
 
 rm file.js 		-> delete certain file
@@ -33,6 +37,7 @@ find ./folder/subFolder/x_file.js   -> find x_file.js in particular directory
 EXAMPLE of ">" : ls ../milkywuz > recorded_list_file.txt   *record in recorded...txt
 
 EXAMPLE of ">>"  : ls ../milkywuz/jstrial_mac >> recorded_list_file.txt  *append in recorded ...txt file
+
 
 
 
