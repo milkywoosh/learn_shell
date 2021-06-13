@@ -1,0 +1,38 @@
+pwd  				-> info currdir, result address directory
+
+rm file.js 		-> delete certain file
+rmdir "folder_name"  -> delete empty dir
+rm -r *  				-> delete all file inside curr dir
+rm -r "folder_name"  -> delete folder with its content
+
+mv "file.js" ./folderA  -> move file.js to folderA 
+
+
+mv "file.js"   "renamed_file.js"  -> rename file
+ 
+cp "file.js" ./folderA  -> copy file.js to folderA
+cp -a /Source/FolderName /Destination/FolderName.  -> Copy folder and contained files together
+
+
+ls  					-> show all file in curr dir
+ls ./folderA/folderSubA   -> check all files inside folderSubA
+
+cd folderA   -> go to open folderA
+cd ..   	 -> go back to previous folder
+cd ~     	-> go back to root folder
+
+cat "file.js"  -> open file.js and show ALL THE line of txt inside the terminal
+
+find ./folder/subFolder/x_file.js   -> find x_file.js in particular directory
+
+
+>   -> to record ls command result: try this
+
+>>  -> has the same function but only append to the same file
+
+EXAMPLE of ">" : ls ../milkywuz > recorded_list_file.txt   *record in recorded...txt
+
+EXAMPLE of ">>"  : ls ../milkywuz/jstrial_mac >> recorded_list_file.txt  *append in recorded ...txt file
+
+
+

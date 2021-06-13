@@ -1,0 +1,25 @@
+total 8
+-rw-rw-r-- 1 milky_way milky_way  777 Jun 13 14:56 note_shell.txt
+-rw-rw-r-- 1 milky_way milky_way    0 Jun 13 14:58 recorded_list_file.txt
+drwxrwxr-x 2 milky_way milky_way 4096 Jun 13 14:47 tesSubFolder
+Auto copy.py
+Compressed
+ShellIntro.pdf
+twitter-2020-11-21-77f99e496a2303bedba2577ded9f5c4ba26d1dda4062d0e00d2d553f03adbcce.zip
+jstrial_mac
+asyncro
+codecademyHTML.html
+collab.js
+crucialNote.md
+es6.js
+filex.md
+linked list
+loop.js
+loop linux.js
+Module_eloquent.js
+Object.js
+person_module.js
+teacher_module.js
+trial.txt.save
+werewolf_module.js
+wizard_module.js

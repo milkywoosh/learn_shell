@@ -1,0 +1,22 @@
+pwd  				-> info currdir, result address directory
+
+rm 	  file.js 		-> delete certain file
+rmdir "folder_name"  -> delete empty dir
+
+rm -r *  				-> delete all file inside curr dir
+rmdir -r "folder_name"  -> delete folder with its content
+
+mv "file.js" ./folderA  -> move file.js to folderA 
+
+cp "file.js" ./folderA  -> copy file.js to folderA
+
+ls  					-> show all file in curr dir
+ls ./folderA/folderSubA   -> check all files inside folderSubA
+
+cd folderA   -> go to open folderA
+cd ..   	 -> go back to previous folder
+cd ~     	-> go back to root folder
+
+cat "file.js"  -> open file.js and show line of txt inside the terminal
+
+
