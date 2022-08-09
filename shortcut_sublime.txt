@@ -1,0 +1,8 @@
+- multicursor perline up-down :	ctrl + shift + up/down
+
+- muticursor bulky : hold cmd + shift + up/down + L
+
+- duplicate lineOfCode : cmd + shift + D
+
+- block code to left/right : cmd + shift + right/left
+
