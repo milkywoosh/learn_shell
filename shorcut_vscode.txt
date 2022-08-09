@@ -1,0 +1,20 @@
+*reference: https://betterprogramming.pub/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d
+
+
+- multicursor perline up-down :	
+
+- muticursor bulky : alt + shift + click_mouse
+
+- duplicate lineOfCode : alt + shift + down
+
+- block code to left/right : cmd + shift + right/left
+
+- lower case : alt + ctrl + L
+
+- upper case : alt + ctrt + U
+
+- format code : shift + alt + F
+
+
+- switch same windows in MAC => CMD + ` <tilde>
+
